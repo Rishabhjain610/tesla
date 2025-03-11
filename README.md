@@ -18,3 +18,4 @@ A reimagined version of **Tesla's official website** built using modern web tech
 ✅ **Non-Responsive Design** — The project is desktop-only for now to maintain its high-end feel.
 
 ## 📷 Demo
+https://github.com/user-attachments/assets/e89c947e-4e2e-47e2-90a6-0d9b3272e9b9
