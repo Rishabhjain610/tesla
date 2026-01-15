@@ -1,3 +1,5 @@
+## 📷 Demo
+https://github.com/user-attachments/assets/e89c947e-4e2e-47e2-90a6-0d9b3272e9b9
 ## 🚗 Tesla Reimagined
 
 A reimagined version of **Tesla's official website** built using modern web technologies and breathtaking animations. This project focuses on creating a **next-level frontend experience** using cutting-edge libraries like **React Three Fiber**, **Framer Motion**, **GSAP**, and **Tailwind CSS**. Although it's **not responsive**, the visual experience is designed to be immersive and futuristic — just like **Tesla's vision**. 🚀
@@ -17,5 +19,4 @@ A reimagined version of **Tesla's official website** built using modern web tech
 ✅ **Next-Level Frontend Experience** — Focused entirely on making the frontend breathtaking.  
 ✅ **Non-Responsive Design** — The project is desktop-only for now to maintain its high-end feel.
 
-## 📷 Demo
-https://github.com/user-attachments/assets/e89c947e-4e2e-47e2-90a6-0d9b3272e9b9
+
